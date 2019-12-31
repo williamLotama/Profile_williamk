@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Layout_Profile_William</string>
+    <string name="lorem_ipsum">
+Lorem ipsum, atau lipsum seperti yang kadang-kadang dikenal, adalah teks tiruan yang digunakan dalam meletakkan cetak, grafik atau web.
+        Desain Bagian ini dikaitkan dengan penata huruf yang tidak dikenal pada abad ke-15 yang diduga telah mengacak bagian
+        DeFinibus Bonorum et Malorum dari Cicero untuk digunakan dalam buku spesimen jenis.</string>
+    <string name="about">Tentang</string>
+    <string name="follow">Mengikuti</string>
+    <string name="label_followers">Pengikut</string>
+    <string name="label_posting">Postingan</string>
+    <string name="setting">Pengaturan</string>
+    <string name="action_setting">Setting</string>
+    <string name="action_setting_language">Bahasa</string>
+    <string name="key_setting_locale">Ubah lokasi</string>
+    <string name="label_setting_locale_summary">Ubah Bahasa Perangkat</string>
+    <string name="label_setting_locale_title">Ubah Bahasa</string>
+    <string name="label_follow">Mengikuti</string>
+    <string name="show_comments">Tampilkan Semua Komen</string>
+    <string name="btn_follow">Ikuti</string>
+    <string name="kampus">Institut Teknologi Malang</string>
+
+
+</resources>

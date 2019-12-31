@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Layout_Profile_Williamk</string>
+    <string name="lorem_ipsum">Lorem ipsum, or lipsum as it is som
+        etimes known, is dummy text used in laying out print, graphic or web d
+        esigns. The passage is attributed to an unknown typesetter in the 15th century who is thought to hav
+        e scrambled parts of Cicero\'s De Finibus Bonorum et Malorum for use in a type specimen book</string>
+    <string name="about">About</string>
+    <string name="follow">Follow</string>
+    <string name="label_followers">Followers</string>
+    <string name="label_posting">Posting</string>
+    <string name="setting">Settings</string>
+    <string name="action_setting">Setting</string>
+    <string name="action_setting_language">Language</string>
+    <string name="key_setting_locale">setting_locale</string>
+    <string name="label_setting_locale_summary">Change device language</string>
+    <string name="label_setting_locale_title">Change language</string>
+    <string name="label_follow">Follow</string>
+    <string name="show_comments">Show All Comments</string>
+    <string name="btn_follow">Follow</string>
+    <string name="kampus">National Institute of Technology</string>
+
+
+</resources>
